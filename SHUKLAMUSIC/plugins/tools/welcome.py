@@ -133,14 +133,14 @@ async def greet_group(_, member: ChatMemberUpdated):
 ╔══════ஜ۩۞۩ஜ════╗            
 ════════════════❍⊱❁            
 ╭✠╼━━━━━━❖━━━━━━━✠╮ 
-│Sᴜᴘᴘᴏʀᴛ➥ [Sᴜᴘᴘᴏʀᴛ](https://t.me/the_ind_coders)
+│Sᴜᴘᴘᴏʀᴛ➥ [Sᴜᴘᴘᴏʀᴛ](https://t.me/Team_Shadow_Group)
 ╰✠╼━━━━━━❖━━━━━━━✠╯
 ════════════════❍⊱❁
 ╚══════ஜ۩۞۩ஜ════╝
 """,
 reply_markup=InlineKeyboardMarkup(
 [
-[InlineKeyboardButton(f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ", url=f"https://t.me/ITZ_IND_CODER"),
+[InlineKeyboardButton(f"❖ ᴘᴏᴡᴇʀᴇᴅ ʙʏ", url=f"https://t.me/ALONE_BOY_1_K"),
 ]
 ]
 ))
