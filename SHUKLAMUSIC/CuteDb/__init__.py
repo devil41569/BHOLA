@@ -1,4 +1,4 @@
-from async_pymongo import AsyncClient
+from motor.motor_asyncio import AsyncClient
 from config import MONGO_DB_URI
 
 DBNAME = "CUTIEXMUSICBOTPT"
